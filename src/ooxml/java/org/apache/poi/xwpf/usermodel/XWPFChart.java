@@ -46,7 +46,6 @@ public class XWPFChart extends XDDFChart {
      * default width of chart in emu
      */
     public static final int DEFAULT_WIDTH 	= 500000;
-    
     /**
      * default height of chart in emu
      */
